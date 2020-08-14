@@ -117,6 +117,19 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Dave",
+      "species": "bear",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
